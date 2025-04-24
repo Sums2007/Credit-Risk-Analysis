@@ -7,8 +7,11 @@ Dataset :
 The dataset consists of the following features:
 
 loan_size: The size of the loan
+
 interest_rate: The interest rate of the loan
+
 borrower_income: The income of the borrower
+
 debt_to_income: The ratio of the borrower's debt to their income
 num_of_accounts: The number of accounts the borrower has
 derogatory_marks: The number of derogatory marks on the borrower's credit history
