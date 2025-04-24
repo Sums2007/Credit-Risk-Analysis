@@ -1,9 +1,9 @@
 # Credit-Risk-Analysis
 
-Introduction
+Introduction : 
 This project aims to build and evaluate a credit risk classification model using a dataset of historical lending activity from a peer-to-peer lending services company. The goal is to identify the creditworthiness of borrowers and predict the risk of loan default.
 
-Dataset
+Dataset :
 The dataset consists of the following features:
 
 loan_size: The size of the loan
