@@ -1,7 +1,5 @@
 # Credit-Risk-Analysis
 
-# Credit Risk Analysis Project
-
 ## Introduction
 This project aims to build and evaluate a credit risk classification model using a dataset of historical lending activity from a peer-to-peer lending services company. The goal is to identify the creditworthiness of borrowers and predict the risk of loan default.
 
